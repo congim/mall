@@ -1,0 +1,35 @@
+syntax = "v1"
+
+//import "apis/order.api"
+//import "apis/user.api"
+
+info(
+	title: "BFF 服务"
+	desc: "为客户端提供一个集中的接口"
+	author: "邵聪聪"
+	email: "imscc@qq.com"
+	version: "v1"
+)
+
+type (
+	// BannerRes 首页活动响应
+	BannerRes {
+		Banners []*Banner `json:"banners"`
+	}
+	// Banner 活动详情
+	Banner {
+		Id    int64  `json:"id"`
+		Name  string `json:"name"`
+		Image string `json:"image"`
+		Url   string `json:"url"`
+	}
+)
+//@server(
+//	jwt: Auth
+//	group: template
+//)
+
+service api-api {
+	@handler HomeBannerHandler
+	get /v1/home/banner returns (BannerRes)
+}

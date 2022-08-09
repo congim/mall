@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+package banner;
+
+option go_package = "./banner";
+
+message BannerReq {
+}
+
+message BannerRes {
+  repeated BannerInfo banners = 1;
+}
+
+message BannerInfo {
+  int64 id = 1;
+  string name = 2;
+  string image = 3;
+  string url = 4;
+}
+
+service Banner {
+  rpc HomeBanner(BannerReq) returns (BannerRes);
+}

@@ -1,0 +1,10 @@
+Name: api-api
+Host: 0.0.0.0
+Port: 18888
+
+BannerRPC:
+  Etcd:
+    Hosts:
+      - 127.0.0.1:2379
+    Key: banner.rpc
+  NonBlock: true
