@@ -1,0 +1,1016 @@
+{
+  "code": 0,
+  "msg": "success",
+  "nowTime": 1660046254,
+  "data": {
+    "recommendCategoryList": [
+      {
+        "cateId": 1,
+        "secCateId": 1002,
+        "cateName": "翡翠",
+        "icon": "https://cdn.weipaitang.com/res/img/category20180803/1_1002.jpg?t=12",
+        "hasSearchRule": true,
+        "orgType": "default"
+      },
+      {
+        "cateId": 1,
+        "secCateId": 1001,
+        "cateName": "和田玉",
+        "icon": "https://cdn.weipaitang.com/res/img/category20180803/1_1001.jpg?t=12",
+        "hasSearchRule": true,
+        "orgType": "default"
+      },
+      {
+        "cateId": 4,
+        "secCateId": 4005,
+        "cateName": "旧藏瓷",
+        "icon": "https://cdn.weipaitang.com/res/img/category20180803/4_4005.jpg?t=12",
+        "hasSearchRule": true,
+        "orgType": "default"
+      },
+      {
+        "cateId": 1,
+        "secCateId": 1025,
+        "cateName": "奢侈品",
+        "icon": "https://cdn.weipaitang.com/res/img/category20180803/1_1025.jpg?t=12",
+        "hasSearchRule": true,
+        "orgType": "default"
+      },
+      {
+        "cateId": 9,
+        "secCateId": 9001,
+        "cateName": "钱币",
+        "icon": "https://cdn.weipaitang.com/res/img/category20180803/9_9001.jpg?t=12",
+        "hasSearchRule": true,
+        "orgType": "default"
+      },
+      {
+        "cateId": 7,
+        "secCateId": 7004,
+        "cateName": "宠物",
+        "icon": "https://cdn.weipaitang.com/res/img/category20180803/7_7004.jpg?t=12",
+        "hasSearchRule": true,
+        "orgType": "default"
+      },
+      {
+        "cateId": 7,
+        "secCateId": 7011,
+        "cateName": "生活雅趣",
+        "icon": "https://cdn.weipaitang.com/res/img/category20180803/7_7011.jpg?t=12",
+        "hasSearchRule": true,
+        "orgType": "default"
+      },
+      {
+        "cateId": 7,
+        "secCateId": 7010,
+        "cateName": "园艺用品",
+        "icon": "https://cdn.weipaitang.com/res/img/category20180803/7_7010.jpg?t=12",
+        "hasSearchRule": true,
+        "orgType": "default"
+      },
+      {
+        "cateId": 5,
+        "secCateId": 5024,
+        "cateName": "服饰 | 皮具",
+        "icon": "https://cdn.weipaitang.com/res/img/category20180803/5_5024.jpg?t=12",
+        "hasSearchRule": true,
+        "orgType": "default"
+      },
+      {
+        "cateId": 1,
+        "secCateId": 1029,
+        "cateName": "玛瑙玉髓",
+        "icon": "https://cdn.weipaitang.com/res/img/category20180803/1_1029.jpg?t=12",
+        "hasSearchRule": true,
+        "orgType": "default"
+      },
+      {
+        "cateId": 1,
+        "secCateId": 1024,
+        "cateName": "特色玉石",
+        "icon": "https://cdn.weipaitang.com/res/img/category20180803/1_1024.jpg?t=12",
+        "hasSearchRule": true,
+        "orgType": "default"
+      },
+      {
+        "cateId": 5,
+        "secCateId": 5004,
+        "cateName": "铜 | 铁 | 锡器",
+        "icon": "https://cdn.weipaitang.com/res/img/category20180803/5_5004.jpg?t=12",
+        "hasSearchRule": true,
+        "orgType": "default"
+      },
+      {
+        "cateId": 5,
+        "secCateId": 5016,
+        "cateName": "家具",
+        "icon": "https://cdn.weipaitang.com/res/img/category20180803/5_5016.jpg?t=12",
+        "hasSearchRule": true,
+        "orgType": "default"
+      },
+      {
+        "cateId": 1,
+        "secCateId": 1004,
+        "cateName": "琥珀 | 蜜蜡",
+        "icon": "https://cdn.weipaitang.com/res/img/category20180803/1_1004.jpg?t=12",
+        "hasSearchRule": true,
+        "orgType": "default"
+      },
+      {
+        "cateId": 3,
+        "secCateId": 3004,
+        "cateName": "普洱茶",
+        "icon": "https://cdn.weipaitang.com/res/img/category20180803/3_3004.jpg?t=12",
+        "hasSearchRule": true,
+        "orgType": "default"
+      }
+    ],
+    "categoryList": [
+      {
+        "cateId": 1,
+        "sort": 15,
+        "secCategory": [
+          {
+            "cateId": 1,
+            "secCateId": 1001,
+            "sort": 20,
+            "limitUserType": 0,
+            "secCateName": "和田玉",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/1_1001.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 1,
+            "secCateId": 1002,
+            "sort": 19,
+            "limitUserType": 0,
+            "secCateName": "翡翠",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/1_1002.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 1,
+            "secCateId": 1014,
+            "sort": 18,
+            "limitUserType": 0,
+            "secCateName": "天珠",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/1_1014.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 1,
+            "secCateId": 1028,
+            "sort": 17,
+            "limitUserType": 0,
+            "secCateName": "中式玉",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/1_1028.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 1,
+            "secCateId": 1025,
+            "sort": 16,
+            "limitUserType": 0,
+            "secCateName": "奢侈品",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/1_1025.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 1,
+            "secCateId": 1003,
+            "sort": 15,
+            "limitUserType": 0,
+            "secCateName": "南红",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/1_1003.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 1,
+            "secCateId": 1030,
+            "sort": 15,
+            "limitUserType": 0,
+            "secCateName": "珍珠 | 彩宝",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/1_1030.jpg?t=12",
+            "hasSearchRule": false,
+            "isNew": false
+          },
+          {
+            "cateId": 1,
+            "secCateId": 1031,
+            "sort": 15,
+            "limitUserType": 0,
+            "secCateName": "银饰 | 首饰",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/1_1031.jpg?t=12",
+            "hasSearchRule": false,
+            "isNew": false
+          },
+          {
+            "cateId": 1,
+            "secCateId": 1023,
+            "sort": 14,
+            "limitUserType": 0,
+            "secCateName": "翡翠原石",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/1_1023.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 1,
+            "secCateId": 1015,
+            "sort": 13,
+            "limitUserType": 0,
+            "secCateName": "松石",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/1_1015.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 1,
+            "secCateId": 1013,
+            "sort": 12,
+            "limitUserType": 0,
+            "secCateName": "黄金铂钯",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/1_1013.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 1,
+            "secCateId": 1004,
+            "sort": 10,
+            "limitUserType": 0,
+            "secCateName": "琥珀 | 蜜蜡",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/1_1004.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 1,
+            "secCateId": 1027,
+            "sort": 9,
+            "limitUserType": 0,
+            "secCateName": "钻石贵宝",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/1_1027.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 1,
+            "secCateId": 1024,
+            "sort": 8,
+            "limitUserType": 0,
+            "secCateName": "特色玉石",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/1_1024.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 1,
+            "secCateId": 1029,
+            "sort": 6,
+            "limitUserType": 0,
+            "secCateName": "玛瑙玉髓",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/1_1029.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          }
+        ],
+        "cateName": "玉翠珠宝"
+      },
+      {
+        "cateId": 5,
+        "sort": 14,
+        "secCategory": [
+          {
+            "cateId": 5,
+            "secCateId": 5001,
+            "sort": 30,
+            "limitUserType": 0,
+            "secCateName": "木质珠串",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/5_5001.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 5,
+            "secCateId": 5020,
+            "sort": 29,
+            "limitUserType": 0,
+            "secCateName": "沉香",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/5_5020.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 5,
+            "secCateId": 5024,
+            "sort": 28,
+            "limitUserType": 0,
+            "secCateName": "服饰 | 皮具",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/5_5024.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 5,
+            "secCateId": 5013,
+            "sort": 27,
+            "limitUserType": 0,
+            "secCateName": "黄花梨",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/5_5013.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 5,
+            "secCateId": 5012,
+            "sort": 26,
+            "limitUserType": 0,
+            "secCateName": "小叶紫檀",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/5_5012.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 5,
+            "secCateId": 5018,
+            "sort": 25,
+            "limitUserType": 0,
+            "secCateName": "崖柏",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/5_5018.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 5,
+            "secCateId": 5005,
+            "sort": 24,
+            "limitUserType": 0,
+            "secCateName": "菩提珠串",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/5_5005.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 5,
+            "secCateId": 5025,
+            "sort": 23,
+            "limitUserType": 0,
+            "secCateName": "西洋器",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/5_5025.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 5,
+            "secCateId": 5007,
+            "sort": 22,
+            "limitUserType": 0,
+            "secCateName": "金 | 银器",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/5_5007.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 5,
+            "secCateId": 5002,
+            "sort": 21,
+            "limitUserType": 0,
+            "secCateName": "木雕 | 树根",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/5_5002.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 5,
+            "secCateId": 5011,
+            "sort": 20,
+            "limitUserType": 0,
+            "secCateName": "竹雕 | 扇子",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/5_5011.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 5,
+            "secCateId": 5004,
+            "sort": 19,
+            "limitUserType": 0,
+            "secCateName": "铜 | 铁 | 锡器",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/5_5004.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 5,
+            "secCateId": 5006,
+            "sort": 17,
+            "limitUserType": 0,
+            "secCateName": "石雕",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/5_5006.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 5,
+            "secCateId": 5014,
+            "sort": 16,
+            "limitUserType": 0,
+            "secCateName": "木质把件",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/5_5014.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 5,
+            "secCateId": 5019,
+            "sort": 15,
+            "limitUserType": 0,
+            "secCateName": "宗教文化",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/5_5019.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 5,
+            "secCateId": 5016,
+            "sort": 13,
+            "limitUserType": 0,
+            "secCateName": "家具",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/5_5016.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 5,
+            "secCateId": 5015,
+            "sort": 12,
+            "limitUserType": 0,
+            "secCateName": "工艺刀剑",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/5_5015.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 5,
+            "secCateId": 5009,
+            "sort": 11,
+            "limitUserType": 0,
+            "secCateName": "漆器 | 雕漆",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/5_5009.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          }
+        ],
+        "cateName": "工艺作品"
+      },
+      {
+        "cateId": 0,
+        "sort": 13,
+        "secCategory": [
+          {
+            "cateId": 0,
+            "secCateId": 3,
+            "sort": 20,
+            "limitUserType": 0,
+            "secCateName": "烟具",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/0_3.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 0,
+            "secCateId": 1,
+            "sort": 19,
+            "limitUserType": 0,
+            "secCateName": "文房器",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/0_1.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 0,
+            "secCateId": 11,
+            "sort": 17,
+            "limitUserType": 0,
+            "secCateName": "香料 | 香炉",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/0_11.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 0,
+            "secCateId": 7,
+            "sort": 15,
+            "limitUserType": 0,
+            "secCateName": "图书",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/0_7.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 0,
+            "secCateId": 13,
+            "sort": 13,
+            "limitUserType": 0,
+            "secCateName": "奇石 | 摆件",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/0_13.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 0,
+            "secCateId": 2,
+            "sort": 12,
+            "limitUserType": 0,
+            "secCateName": "核雕 | 核桃",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/0_2.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 0,
+            "secCateId": 9,
+            "sort": 11,
+            "limitUserType": 0,
+            "secCateName": "陨石 | 骨牙",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/0_9.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          }
+        ],
+        "cateName": "文玩杂项"
+      },
+      {
+        "cateId": 4,
+        "sort": 12,
+        "secCategory": [
+          {
+            "cateId": 4,
+            "secCateId": 4001,
+            "sort": 20,
+            "limitUserType": 0,
+            "secCateName": "紫砂",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/4_4001.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 4,
+            "secCateId": 4005,
+            "sort": 18,
+            "limitUserType": 0,
+            "secCateName": "旧藏瓷",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/4_4005.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 4,
+            "secCateId": 4009,
+            "sort": 8,
+            "limitUserType": 0,
+            "secCateName": "建盏",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/4_4009.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 4,
+            "secCateId": 4006,
+            "sort": 6,
+            "limitUserType": 0,
+            "secCateName": "当代瓷",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/4_4006.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 4,
+            "secCateId": 4007,
+            "sort": 4,
+            "limitUserType": 0,
+            "secCateName": "海外瓷",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/4_4007.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 4,
+            "secCateId": 4003,
+            "sort": 3,
+            "limitUserType": 0,
+            "secCateName": "陶器",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/4_4003.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 4,
+            "secCateId": 4004,
+            "sort": 2,
+            "limitUserType": 0,
+            "secCateName": "瓷片标本",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/4_4004.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 4,
+            "secCateId": 4008,
+            "sort": 1,
+            "limitUserType": 0,
+            "secCateName": "仿古瓷",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/4_4008.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          }
+        ],
+        "cateName": "紫砂陶瓷"
+      },
+      {
+        "cateId": 9,
+        "sort": 11,
+        "secCategory": [
+          {
+            "cateId": 9,
+            "secCateId": 9001,
+            "sort": 20,
+            "limitUserType": 0,
+            "secCateName": "钱币",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/9_9001.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 9,
+            "secCateId": 9002,
+            "sort": 18,
+            "limitUserType": 0,
+            "secCateName": "银元",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/9_9002.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 9,
+            "secCateId": 9003,
+            "sort": 16,
+            "limitUserType": 0,
+            "secCateName": "铜元",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/9_9003.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 9,
+            "secCateId": 9004,
+            "sort": 14,
+            "limitUserType": 0,
+            "secCateName": "纸钞",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/9_9004.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 9,
+            "secCateId": 9005,
+            "sort": 12,
+            "limitUserType": 0,
+            "secCateName": "纪念币 | 章",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/9_9005.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 9,
+            "secCateId": 9006,
+            "sort": 10,
+            "limitUserType": 0,
+            "secCateName": "邮票",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/9_9006.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 9,
+            "secCateId": 9007,
+            "sort": 7,
+            "limitUserType": 0,
+            "secCateName": "收藏卡",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/9_9007.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          }
+        ],
+        "cateName": "钱币邮票"
+      },
+      {
+        "cateId": 3,
+        "sort": 10,
+        "secCategory": [
+          {
+            "cateId": 3,
+            "secCateId": 3001,
+            "sort": 20,
+            "limitUserType": 0,
+            "secCateName": "白酒",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/3_3001.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 3,
+            "secCateId": 3004,
+            "sort": 18,
+            "limitUserType": 0,
+            "secCateName": "普洱茶",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/3_3004.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 3,
+            "secCateId": 3006,
+            "sort": 12,
+            "limitUserType": 0,
+            "secCateName": "洋酒",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/3_3006.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 3,
+            "secCateId": 3003,
+            "sort": 10,
+            "limitUserType": 0,
+            "secCateName": "滋补营养品",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/3_3003.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 3,
+            "secCateId": 3007,
+            "sort": 8,
+            "limitUserType": 0,
+            "secCateName": "葡萄酒",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/3_3007.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 3,
+            "secCateId": 3009,
+            "sort": 6,
+            "limitUserType": 0,
+            "secCateName": "白茶",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/3_3009.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 3,
+            "secCateId": 3005,
+            "sort": 4,
+            "limitUserType": 0,
+            "secCateName": "岩茶",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/3_3005.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 3,
+            "secCateId": 3002,
+            "sort": 2,
+            "limitUserType": 0,
+            "secCateName": "其他茶叶",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/3_3002.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 3,
+            "secCateId": 3010,
+            "sort": 0,
+            "limitUserType": 0,
+            "secCateName": "老酒",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/3_3010.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 3,
+            "secCateId": 3012,
+            "sort": 0,
+            "limitUserType": 0,
+            "secCateName": "老茶",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/3_3012.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          }
+        ],
+        "cateName": "茶酒滋补"
+      },
+      {
+        "cateId": 2,
+        "sort": 9,
+        "secCategory": [
+          {
+            "cateId": 2,
+            "secCateId": 2005,
+            "sort": 16,
+            "limitUserType": 0,
+            "secCateName": "印石章料",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/2_2005.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 2,
+            "secCateId": 2002,
+            "sort": 14,
+            "limitUserType": 0,
+            "secCateName": "西画",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/2_2002.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 2,
+            "secCateId": 2004,
+            "sort": 12,
+            "limitUserType": 0,
+            "secCateName": "篆刻 | 拓片",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/2_2004.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 2,
+            "secCateId": 2006,
+            "sort": 10,
+            "limitUserType": 0,
+            "secCateName": "信札 | 善本",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/2_2006.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 2,
+            "secCateId": 2008,
+            "sort": 1,
+            "limitUserType": 0,
+            "secCateName": "装饰画",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/2_2008.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 2,
+            "secCateId": 2011,
+            "sort": 0,
+            "limitUserType": 0,
+            "secCateName": "书法",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/2_2011.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 2,
+            "secCateId": 2012,
+            "sort": 0,
+            "limitUserType": 0,
+            "secCateName": "国画",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/2_2012.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          }
+        ],
+        "cateName": "书画篆刻"
+      },
+      {
+        "cateId": 7,
+        "sort": 8,
+        "secCategory": [
+          {
+            "cateId": 7,
+            "secCateId": 7001,
+            "sort": 20,
+            "limitUserType": 0,
+            "secCateName": "盆景 | 盆栽",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/7_7001.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 7,
+            "secCateId": 7002,
+            "sort": 18,
+            "limitUserType": 0,
+            "secCateName": "花卉",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/7_7002.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 7,
+            "secCateId": 7004,
+            "sort": 16,
+            "limitUserType": 0,
+            "secCateName": "宠物",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/7_7004.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 7,
+            "secCateId": 7010,
+            "sort": 12,
+            "limitUserType": 0,
+            "secCateName": "园艺用品",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/7_7010.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 7,
+            "secCateId": 7012,
+            "sort": 11,
+            "limitUserType": 0,
+            "secCateName": "观赏鱼",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/7_7012.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 7,
+            "secCateId": 7014,
+            "sort": 10,
+            "limitUserType": 0,
+            "secCateName": "渔具",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/7_7014.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 7,
+            "secCateId": 7020,
+            "sort": 10,
+            "limitUserType": 0,
+            "secCateName": "海水生物",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/7_7020.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          },
+          {
+            "cateId": 7,
+            "secCateId": 7011,
+            "sort": 8,
+            "limitUserType": 0,
+            "secCateName": "生活雅趣",
+            "icon": "https://cdn.weipaitang.com/res/img/category20180803/7_7011.jpg?t=12",
+            "hasSearchRule": true,
+            "isNew": false
+          }
+        ],
+        "cateName": "花鸟文娱"
+      }
+    ],
+    "recommendSpecial": [],
+    "html": {
+      "title": "分类",
+      "uniShare": {
+        "common": {
+          "title": "你想要的，尽情挑吧！",
+          "desc": "微拍堂分类频道--想你所想，点一下，珍宝立刻拍回家！",
+          "link": "https://w.weipaitang.com/category",
+          "img": "https://cdn.weipaitang.com/static/20190411ecf0770c-34b0-4420-83f4-5324ab10a6a3-W192H192",
+          "templateId": "share_document_298",
+          "uri": "",
+          "pics": [],
+          "styleType": 1
+        },
+        "channels": [
+          "wechatFriends",
+          "wechatMoments",
+          "weiBo",
+          "qq"
+        ],
+        "weiBo": {
+          "title": "你想要的，尽情挑吧！",
+          "desc": "",
+          "templateId": "share_document_298_595_weiBo"
+        },
+        "extendData": {},
+        "shareVersion": true
+      }
+    }
+  }
+}

@@ -1,12 +1,11 @@
-package logic
+package home
 
 import (
 	"context"
 
-	"github.com/congim/mall/apps/banner/rpc/banner"
-
 	"github.com/congim/mall/apps/app/api/internal/svc"
 	"github.com/congim/mall/apps/app/api/internal/types"
+	"github.com/congim/mall/apps/home/rpc/home"
 
 	"github.com/zeromicro/go-zero/core/logx"
 )
@@ -26,7 +25,7 @@ func NewHomeBannerLogic(ctx context.Context, svcCtx *svc.ServiceContext) *HomeBa
 }
 
 func (l *HomeBannerLogic) HomeBanner() (*types.BannerRes, error) {
-	rpcBanners, err := l.svcCtx.BannerRPC.HomeBanner(l.ctx, &banner.BannerReq{})
+	rpcBanners, err := l.svcCtx.HomeRPC.Banner(l.ctx, &home.BannerReq{})
 	if err != nil {
 		logx.Error("home banner fail", logx.Field("error", err))
 		return nil, err

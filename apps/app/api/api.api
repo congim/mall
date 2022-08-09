@@ -24,12 +24,13 @@ type (
 		Url   string `json:"url"`
 	}
 )
-//@server(
-//	jwt: Auth
-//	group: template
-//)
+
+@server (
+	prefix: v1/home
+	group: home
+)
 
 service api-api {
 	@handler HomeBannerHandler
-	get /v1/home/banner returns (BannerRes)
+	get /banner returns (BannerRes)
 }

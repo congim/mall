@@ -6,10 +6,9 @@ import (
 	"log"
 	"time"
 
-	"github.com/zeromicro/go-zero/core/conf"
-
 	"github.com/philchia/agollo/v4"
 
+	"github.com/zeromicro/go-zero/core/conf"
 	"github.com/zeromicro/go-zero/core/logx"
 
 	"github.com/congim/mall/apps/app/api/internal/config"
@@ -22,10 +21,10 @@ var configFile = flag.String("f", "etc/api-api.yaml", "the config file")
 
 func main() {
 	flag.Parse()
-	loadConfigFromApollo()
+	//loadConfigFromApollo()
 	var c config.Config
-	//conf.MustLoad(*configFile, &c)
-	conf.LoadFromYamlBytes([]byte(agollo.GetContent(agollo.WithNamespace("chatcheck.yaml"))), &c)
+	conf.MustLoad(*configFile, &c)
+	//conf.LoadFromYamlBytes([]byte(agollo.GetContent(agollo.WithNamespace("chatcheck.yaml"))), &c)
 	ctx := svc.NewServiceContext(c)
 	server := rest.MustNewServer(c.RestConf)
 	defer server.Stop()
